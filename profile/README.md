@@ -1,4 +1,4 @@
-## Hi there 👋
+## [smartPixels website link](https://fastmachinelearning.org/smart-pixels/)
 
 <!--
 
